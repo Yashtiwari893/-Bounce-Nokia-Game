@@ -2,7 +2,7 @@
  
 Nostalgic Bounce game from old Nokia phones made in JavaScript.
 
-#### Demo:
+#### Demo: https://sammantiwari893.netlify.app/
  
 
 Follow me :
